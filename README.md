@@ -12,6 +12,7 @@ An interactive task management application built using JavaScript.
 ## 🛠 Tech Stack
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 
 ## 🌐 Live Demo
