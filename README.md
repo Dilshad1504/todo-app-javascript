@@ -16,7 +16,7 @@ An interactive task management application built using JavaScript.
 - JavaScript
 
 ## 🌐 Live Demo
-https://todoapp1504.ccbp.tech/
+https://todo-app-javascript-s9z2.onrender.com
 
 ## 📸 Screenshot
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96e1c50c-64ce-44ac-9fbe-fedb7462d175" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/3f5dce8d-20d5-4a7d-82d8-b72424e039e5" />
